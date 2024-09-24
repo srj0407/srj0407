@@ -1,2 +1,6 @@
-Hi, I’m Samuel. I am a Software Engineering Student at OSU. This Github represents a list of coding and circuit projects I have done in the past as either proof of concept or projects I am intrested in.
+👨‍💻 Samuel Jamieson
+Computer Engineer | AI & Cybersecurity Enthusiast | Full-Stack Developer
+Hi there! I'm Samuel Jamieson, a passionate computer science student at Oregon State University with a strong focus on cybersecurity and artificial intelligence. I have experience working with cutting-edge technologies, developing AI systems, and building efficient web applications using modern tools.
 
+📫 Contact Me:
+📧 Email | GitHub | LinkedIn
