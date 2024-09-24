@@ -46,5 +46,3 @@ With hands-on experience in these tools, I bring an innovative approach to solvi
 ---
 
 Feel free to explore my work and get in touch! I’m always excited about collaborating on cutting-edge projects.
-
-![Profile Banner](https://user-images.githubusercontent.com/yourprofilebanner.jpg)
