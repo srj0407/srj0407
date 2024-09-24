@@ -2,7 +2,7 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=srj0407) 
 
-![Hello! I'm Samuel](Screenshot 2024-09-23 175949.png)
+![Hello! I'm Samuel](./Screenshot%202024-09-23%20175949.png)
 
 ### Computer Engineer | AI & Cybersecurity Enthusiast | Full-Stack Developer
 
