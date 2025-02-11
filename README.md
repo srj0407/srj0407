@@ -21,8 +21,8 @@ Hi there! I'm **Samuel Jamieson**, a passionate computer science student at **Or
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Java, Python, C/C++, JavaScript, HTML, CSS, R
-- **Frameworks**: React, Node.js, Express.js
+- **Languages**: Java, Python, C/C++, JavaScript, HTML, CSS, R, TypeScript, Go, Haskell
+- **Frameworks**: React, Node.js, Express.js, Next.js, Firebase, Vite
 - **Developer Tools**: Git, GitHub Actions, GitHub Pages, Visual Studio, NumPy
 
 With hands-on experience in these tools, I bring an innovative approach to solving real-world problems through code.
@@ -33,8 +33,8 @@ With hands-on experience in these tools, I bring an innovative approach to solvi
 
 - **AI Algorithms** and **Machine Learning Techniques** for predictive modeling.
 - **Advanced Cybersecurity Protocols** with a focus on ethical hacking.
-- **General Website Devolpment** with a focus on live service websites
-- **Nuclear Physics** pertaining to the containment and operation of nuclear reactors
+- **General Website Devolpment** with a focus on live service websites.
+- **Researcher at OSU** Pertaining to AI imaging and leveraging AI in GAN learning models to contruct real time data reconstruction.
 
 ---
 
