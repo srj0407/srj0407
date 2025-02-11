@@ -15,7 +15,7 @@ Hi there! I'm **Samuel Jamieson**, a passionate computer science student at **Or
 
 ## 🔥 Featured Projects
 
-**WIP**
+**AI Researcher at OSU** -- Studying AI image generation for biofoam micro-imaging
 
 ---
 
