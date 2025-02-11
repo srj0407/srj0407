@@ -22,7 +22,7 @@ Hi there! I'm **Samuel Jamieson**, a passionate computer science student at **Or
 ## 🛠️ Technical Skills
 
 - **Languages**: Java, Python, C/C++, JavaScript, HTML, CSS, R, TypeScript, Go, Haskell
-- **Frameworks**: React, Node.js, Express.js, Next.js, Firebase, Vite
+- **Frameworks**: React, Node.js, Express.js, Next.js, Firebase, Vite, DragonFly
 - **Developer Tools**: Git, GitHub Actions, GitHub Pages, Visual Studio, NumPy
 
 With hands-on experience in these tools, I bring an innovative approach to solving real-world problems through code.
