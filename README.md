@@ -16,6 +16,9 @@ Hi there! I'm **Samuel Jamieson**, a passionate computer science student at **Or
 ## 🔥 Featured Projects
 
 **AI Researcher at OSU** -- Studying AI image generation for biofoam micro-imaging
+**GANcycle Imaging AI** -- Creating a machine learning algorithm to predictively filter, and process MicroCT Images
+**Dual AI system Transcription** -- Creating a system that uses Dragonfly transcription repository as a baseline, while using DeepLearn when confidence rating falls below 80%
+**Variable Network Sniffer** -- Using Network DeAuthing to grab information off the back of the communication signal allowing for spying via network connection (Acts as a middle man between user and router)
 
 ---
 
